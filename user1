@@ -560,6 +560,27 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 
 #EXTINF:0, group-title="Kids",DISNEY JUNIOR
 
+#EXTINF:0, group-title="Kids",KIDS CHANNEL
+http://wowza60.indostreamserver.com:1935/kids/live/playlist.m3u8
+
+#EXTINF:0, group-title="Kids",BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=KtBR4kNKKiprUBcuDy5kEENEVkzkgFgMsEfSlNamPqjnP-SC3OrXMAISH4ip6xvz
+
+#EXTINF:0, group-title="Kids",TOONMAX TV
+http://rr2.dens.tv/s/s37/index2.m3u8
+http://210.210.155.35/session/8e0d5f98-3773-11e8-8c5f-c81f66f89318/qwr9ew/s/s37/index2.m3u8
+
+#EXTINF:0, group-title="Kids",Da Vinci
+http://rr.dens.tv/h/h01/index2.m3u8
+http://210.210.155.35/session/48fad06a-3774-11e8-b67b-c81f66f89318/uq2663/h/h01/index2.m3u8
+
+#EXTINF:0, group-title="Kids",MY KIDS
+http://rr2.dens.tv/s/s30/index2.m3u8
+http://210.210.155.35/session/1ff8a2b0-350c-11e8-bb60-c81f66f89318/uq2663/s/s30/index2.m3u8
+
+#EXTINF:0, group-title="Kids",Duck TV
+http://82.119.96.66:1935/ducktv/DuckTV_720p/playlist.m3u8
+
 #EXTINF:0, group-title="Kids",BABY TV
 
 #EXTINF:0, group-title="Kids",TOONAMI
