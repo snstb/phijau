@@ -850,8 +850,6 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 
 #Tamil Channel Lists
 
-#Tamil Channel Lists
-
 #EXTINF:0, group-title="Tamil",Captain TV
 http://cdn.asianetmobiletvplus.online/channels/captaintv_axicjyvfoxydvunicgsvtgprjyqcuknq/index.m3u8
 
@@ -886,7 +884,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226220/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Polimer News
-chttp://dn.asianetmobiletvplus.online/channels/polimernews_nanmkvqhpdjkvlckbqwqnsosvpmzxjla/index.m3u8
+chttp://cdn.asianetmobiletvplus.online/channels/polimernews_nanmkvqhpdjkvlckbqwqnsosvpmzxjla/index.m3u8
 #EXTINF:0, group-title="Tamil",Polimer
 http://cdn.asianetmobiletvplus.online/channels/polimertv_rpvpvdefkpxbafsouzockpitjldtogrr/index.m3u8
 
@@ -949,7 +947,7 @@ http://cdn.asianetmobiletvplus.online/channels/murasu_lvdtuywsqtouxjyahchfgkstxk
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226340/index.m3u8
 
 #EXTINF:0, group-title="Tamil",News Eighteen
-cdn.asianetmobiletvplus.online/channels/newseighteen_qbvbepuyijhdjgjrosvflfemqkudnfdv_hls/newseighteen_qbvbepuyijhdjgjrosvflfemqkudnfdv_master.m3u8
+http://cdn.asianetmobiletvplus.online/channels/newseighteen_qbvbepuyijhdjgjrosvflfemqkudnfdv_hls/newseighteen_qbvbepuyijhdjgjrosvflfemqkudnfdv_master.m3u8
 
 #EXTINF:0, group-title="Tamil",WinTV
 http://cdn.asianetmobiletvplus.online/channels/wintv_toazdbbyskcfmursqbwnyoecqemrkgcj/index.m3u8
@@ -991,7 +989,6 @@ http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221
 
 #EXTINF:0, group-title="Tamil",DD Podhigai
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226381/index.m3u8
-
 
 
 #Malayalam Channel Lists
