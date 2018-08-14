@@ -857,45 +857,45 @@ http://cdn.asianetmobiletvplus.online/channels/captaintv_axicjyvfoxydvunicgsvtgp
 http://cdn.asianetmobiletvplus.online/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
 
 #EXTINF:0, group-title="Tamil",Mega TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226365/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226365/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Zee Tamil
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225929/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225929/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Puthu Yugam
-http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226313/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226313/index.m3u8
 
-#EXTINF:0, group-title="Tamil",Sun TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226523/index.m3u8
+#SUN TV
+
+#EXTINF:0, group-title="Tamil",Sun TV HD
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226523/index.m3u8
 
 #EXTINF:0, group-title="Tamil",K TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226524/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226524/index.m3u8
 
-#EXTINF:0, group-title="Tamil",Star Vijay
+#EXTINF:0, group-title="Tamil",Star Vijay HD
 http://216.144.250.174/Star_Vijay_hD/tracks-v1a1/mono.m3u8
 
 #EXTINF:0, group-title="Tamil",Kalaigngar
 http://cdn.asianetmobiletvplus.online/channels/kalaignartv_czdxzllrwvzueajklabzwgwbwkxzsvky/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Jaya TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226092/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226092/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Raj TV
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226220/index.m3u8
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226220/index.m3u8
 
-#EXTINF:0, group-title="Tamil",Polimer News
-chttp://cdn.asianetmobiletvplus.online/channels/polimernews_nanmkvqhpdjkvlckbqwqnsosvpmzxjla/index.m3u8
 #EXTINF:0, group-title="Tamil",Polimer
 http://cdn.asianetmobiletvplus.online/channels/polimertv_rpvpvdefkpxbafsouzockpitjldtogrr/index.m3u8
 
-#EXTINF:0, group-title="Tamil",Kalaigngar sirippoli
+#EXTINF:0, group-title="Tamil",Kalaigngar Sirippoli
 http://cdn.asianetmobiletvplus.online/channels/sirippoli_wygpmrvgxmiqsoggcodgtlapeaidkncb/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Makkal
 http://cdn.asianetmobiletvplus.online/channels/makkaltv_cgfzrmgczetkhhhopypslgvzzojpabdg/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Adithya TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226511/index.m3u8
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226511/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Vendhar TV
 http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
@@ -903,13 +903,10 @@ http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
 #EXTINF:0, group-title="Tamil",Vasanth TV
 http://cdn.asianetmobiletvplus.online/channels/vasanthtv_eyunrtqeehfxlyqxykldlqrmciwyrbip/index.m3u8
 
-#EXTINF:0, group-title="Tamil",VIJAY SUPER
-
-#EXTINF:0, group-title="Tamil",NAAPTOL TAMIL
-
-#EXTINF:0, group-title="Tamil",MK TV
-
-#EXTINF:0, group-title="Tamil",MK SIX
+#VIJAY SUPER
+#NAAPTOL TAMIL
+#MK TV
+#MK SIX
 
 #EXTINF:0, group-title="Tamil",Tamilian TV
 http://cdn.asianetmobiletvplus.online/channels/tamilan_ainwfyjbphxdlvzqgayrihenedrqxtbo/index.m3u8
@@ -917,34 +914,37 @@ http://cdn.asianetmobiletvplus.online/channels/tamilan_ainwfyjbphxdlvzqgayrihene
 #EXTINF:0, group-title="Tamil",Vanavil TV
 http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
 
-#EXTINF:0, group-title="Tamil",Color Tamil
+#COLORS TAMIL
 
 #EXTINF:0, group-title="Tamil",J Movie
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226095/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226095/index.m3u8
 
 #EXTINF:0, group-title="Tamil",News 7 Tamil
-http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226308/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226308/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Puthiya Thalaimurai
-http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226304/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226304/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Seithigal 24X7
-http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226318/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226318/index.m3u8
+
+#EXTINF:0, group-title="Tamil",Polimer News
+chttp://cdn.asianetmobiletvplus.online/channels/polimernews_nanmkvqhpdjkvlckbqwqnsosvpmzxjla/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Thanthi TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226219/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226219/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Sun News
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226519/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226519/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Jaya Plus
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226282/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226282/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Kalaigngar murasu
 http://cdn.asianetmobiletvplus.online/channels/murasu_lvdtuywsqtouxjyahchfgkstxkllroel/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Sathiyam TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226340/index.m3u8
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226340/index.m3u8
 
 #EXTINF:0, group-title="Tamil",News Eighteen
 http://cdn.asianetmobiletvplus.online/channels/newseighteen_qbvbepuyijhdjgjrosvflfemqkudnfdv_hls/newseighteen_qbvbepuyijhdjgjrosvflfemqkudnfdv_master.m3u8
@@ -953,42 +953,46 @@ http://cdn.asianetmobiletvplus.online/channels/newseighteen_qbvbepuyijhdjgjrosvf
 http://cdn.asianetmobiletvplus.online/channels/wintv_toazdbbyskcfmursqbwnyoecqemrkgcj/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Discovery Tamil
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226311/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226311/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Chutti TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226525/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226525/index.m3u8
 
-#EXTINF:0, group-title="Tamil",STAR SPORTS TAMIL
+#STAR SPORTS TAMIL
 
 #EXTINF:0, group-title="Tamil",IsaiAruvi
 http://cdn.asianetmobiletvplus.online/channels/isaiaruvi_gvrkulcfwmgiiayfrlmcorerghfvjgrf/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Sun Life
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226536/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226536/index.m3u8
+
+#SUN MUSIC
 
 #EXTINF:0, group-title="Tamil",Sun Music
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226518/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226518/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Jaya Max
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226101/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226101/index.m3u8
 
 #EXTINF:0, group-title="Tamil",MK Tunes
-http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226214/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226214/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Aaseervatham
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226262/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226262/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Angel TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226400/index.m3u8
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226400/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Maadha
 http://cdn.asianetmobiletvplus.online/channels/maadhatv_sgkgedahedhojwewiprokvallhgplwog/index.m3u8
 
 #EXTINF:0, group-title="Tamil",Nambikai TV
-http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226262/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226262/index.m3u8
 
 #EXTINF:0, group-title="Tamil",DD Podhigai
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226381/index.m3u8
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226381/index.m3u8
+
+#7S MUSIC
 
 
 #Malayalam Channel Lists
