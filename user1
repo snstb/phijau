@@ -13,10 +13,10 @@ http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
 http://z5ams.akamaized.net/zeetvhd/tracks-v2a1/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="SONY" group-title="Entertainment",SONY
-http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/index.m3u8
+http://mhms11.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="SONY HD" group-title="Entertainment",SONY HD
-http://cshms4.airtel.tv/wh7f454c46tw1375599167_1532996093/PLTV/88888888/224/3221225772/index.m3u8
+http://mhms11.airtel.tv/wh7f454c46tw1375599167_1532996093/PLTV/88888888/224/3221225772/index.m3u8
 
 #LIFE OK
 #LIFE OK (HIGH DEFINITION)
@@ -30,18 +30,18 @@ http://z5ams.akamaized.net/andtvsd/tracks-v2a1/index.m3u8
 http://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="HOME SHOP 18" group-title="Entertainment",HOME SHOP 18
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226354/index.m3u8
+http://mhms11.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226354/index.m3u8
 
 #CJ ALIVE
 
 #EXTINF:0 channel-id="" tvg-id="BIG MAGIC" group-title="Entertainment",BIG MAGIC
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225745/index.m3u8
+http://mhms11.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225745/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="SONY SAB" group-title="Entertainment",SONY SAB
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225825/index.m3u8
+http://mhms11.airtel.tv/PLTV/88888888/224/3221225825/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="SONY SAB HD" group-title="Entertainment",SONY SAB HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/index.m3u8
+http://mhms11.airtel.tv/PLTV/88888888/224/3221226078/index.m3u8
 
 #NAPTOL GREEN /A2Z DOC
 #RISHTEY
@@ -141,6 +141,9 @@ https://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 
 #UTV MOVIES
 
+#EXTINF:0 channel-id="" tvg-id="ZEE MAGIC" group-title="Movies",ZEE MAGIC
+http://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
+
 #EXTINF:0 channel-id="" tvg-id="ZEE CLASSIC" group-title="Movies",ZEE CLASSIC
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8
 
@@ -176,7 +179,10 @@ http://103.14.127.35:1935/mahamovie/mahamovie.stream/index_w1936252408.m3u8
 
 #STAR MOVIES
 #STAR MOVIES (HIGH DEFINITION)
-#HBO
+
+#EXTINF:0 channel-id="" tvg-id="HBO" group-title="Movies",HBO
+http://62.210.78.84:25461/live/hindijj/nkhsdbaj/207.ts
+
 #HBO (HIGH DEFINITION)
 
 #EXTINF:0 channel-id="" tvg-id="SONY PIX" group-title="Movies",SONY PIX
@@ -292,6 +298,17 @@ http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/32212
 #EXTINF:0 channel-id="" tvg-id="REAL MADRID TV" group-title="Sports",REAL MADRID TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 
+#EXTINF:0 channel-id="" tvg-id="Sky Sports Cricket" group-title="Sports",Sky Sports Cricket
+http://163.172.43.30:8081/live/skhd/playlist.m3u8
+
+#EXTINF:0 channel-id="" tvg-id="Sky Sports Arena" group-title="Sports",Sky Sports arena
+http://163.172.43.30:8081/live/skaren/playlist.m3u8
+
+#EXTINF:0 channel-id="" tvg-id="Sky Sports Action" group-title="Sports",Sky Sports action
+http://163.172.43.30:8081/live/skacti/playlist.m3u8
+
+#EXTINF:0 channel-id="" tvg-id="Premier League" group-title="Sports",Premier League
+http://163.172.43.30:8081/live/skpre/playlist.m3u8
 
 ############################## HINDI NEWS ##############################
 
@@ -484,10 +501,11 @@ http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221
 #EXTINF:0 channel-id="" tvg-id="DISCOVERY CHANNEL" group-title="Infotainment",DISCOVERY CHANNEL
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/index.m3u8
 
-#EXTINF:0 channel-id="" tvg-id="DISCOVERY WORLD HD group-title="Infotainment",DISCOVERY WORLD HD
+#EXTINF:0 channel-id="" tvg-id="DISCOVERY WORLD HD" group-title="Infotainment",DISCOVERY WORLD HD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
 
-#NATIONAL GEOGRAPHIC CHANNEL
+#EXTINF:0 channel-id="" tvg-id="NATIONAL GEOGRAPHIC CHANNEL" group-title="Infotainment",NATIONAL GEOGRAPHIC CHANNEL
+http://62.210.78.84:25461/live/hindijj/nkhsdbaj/205.ts
 
 #NATIONAL GEOGRAPHIC HD
 
@@ -603,7 +621,7 @@ http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221
 http://cshms4.airtel.tv/wh7f454c46tw2783999742_1460436464/PLTV/88888888/224/3221226055/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="ZEE ETC BOLLYWOOD" group-title="Music",ZEE ETC BOLLYWOOD
-http://mhms7.airtel.tv/wh7f454c46tw3349910653_749941675/PLTV/88888888/224/3221226353/index.m3u8
+http://z5ams.akamaized.net/etc/tracks-v1a1/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="MUSIC INDIA" group-title="Music",MUSIC INDIA
 http://103.14.127.37:1935/musicindia/musicindia.stream/index.m3u8
@@ -806,10 +824,11 @@ http://z5ams.akamaized.net/zeetamil/tracks-v1a1/index.m3u8
 #EXTINF:0 channel-id="" tvg-id="Puthu Yugam" group-title="Tamil",Puthu Yugam
 http://cshms4.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226313/index.m3u8
 
-#SUN TV
+#EXTINF:0 channel-id="" tvg-id="Sun TV HD" group-title="Tamil",SUN TV
+http://mhms11.airtel.tv/wh7f454c46tw2803788085_1762483998/PLTV/88888888/224/3221226534/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="Sun TV HD" group-title="Tamil",Sun TV HD
-http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226523/index.m3u8
+http://mhms11.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226523/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="K TV" group-title="Tamil",K TV
 http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226524/index.m3u8
