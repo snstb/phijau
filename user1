@@ -5,11 +5,11 @@
 #EXTINF:0 channel-id="" tvg-id="STAR PLUS" group-title="Entertainment",STAR PLUS
 http://50.7.198.170:8081/Ind/STARPLUS/playlist.m3u8
 
+#EXTINF:0 channel-id="" tvg-id="STAR PLUS" group-title="Entertainment",STAR PLUS
+http://216.144.250.174/Star_Plus_HD/tracks-v1a1/index.m3u8
+
 #EXTINF:0 channel-id="" tvg-id="STAR PLUS HD" group-title="Entertainment",STAR PLUS HD
 http://50.7.198.170:8081/Ind/STARPLUSHD/playlist.m3u8
-
-#EXTINF:0 channel-id="" tvg-id="STAR PLUS UK" group-title="Entertainment",STAR PLUS UK
-http://216.144.250.174/Star_Plus_HD/tracks-1a1/mono.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="ZEE TV" group-title="Entertainment",ZEE TV
 http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
@@ -132,11 +132,11 @@ https://z5ams.akamaized.net/zcinemahd/tracks-v2a1/index.m3u8
 #EXTINF:0 channel-id="" tvg-id="STAR GOLD" group-title="Movies",STAR GOLD
 http://50.7.198.170:8081/Ind/STARGOLD/playlist.m3u8
 
+#EXTINF:0 channel-id="" tvg-id="STAR GOLD" group-title="Movies",STAR GOLD
+http://216.144.250.174/Star_Gold_HD/tracks-v1a1/index.m3u8
+
 #EXTINF:0 channel-id="" tvg-id="STAR GOLD HD" group-title="Movies",STAR GOLD HD
 http://50.7.198.170:8081/Ind/STARGOLDHD/playlist.m3u8
-
-#EXTINF:0 channel-id="" tvg-id="STAR GOLD UK" group-title="Movies",STAR GOLD UK
-http://216.144.250.174/Star_Gold_HD/tracks-v1a1/index.m3u8
 
 #MOVIES OK
 #STAR GOLD SELECT (HIGH DEFINITION)
@@ -238,6 +238,7 @@ http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/index.m3u8
 
 #STAR SPORTS 1
 #STAR SPORTS 1 (HIGH DEFINITION)
+http://89.248.172.75:8088/live/starspitrs1hindi/playlist.m3u8?id=31774&pk=6cc15ce2a640ed8949c322bd68226be30250fc214d17434429876ea4af2700c1
 #STAR SPORTS 2
 #STAR SPORTS 2 (HIGH DEFINITION)
 #STAR SPORTS HINDI 1
@@ -864,7 +865,7 @@ http://mhms11.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226524/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="Star Vijay HD" group-title="Tamil",Star Vijay HD
-http://216.144.250.174/Star_Vijay_hD/tracks-v1a1/mono.m3u8
+http://216.144.250.174/Star_Vijay_hD/tracks-v1a1/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="Kalaigngar" group-title="Tamil",Kalaigngar
 http://cdn.asianetmobiletvplus.online/channels/kalaignartv_czdxzllrwvzueajklabzwgwbwkxzsvky/index.m3u8
