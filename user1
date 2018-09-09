@@ -836,12 +836,11 @@ http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221
 
 #EXTINF:0 channel-id="" tvg-id="DHOOM MUSIC" group-title="Bengali",DHOOM MUSIC
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226369/index.m3u8
-
 #EXTINF:0 channel-id="" tvg-id="SANGEET BANGLA" group-title="Bengali",SANGEET BANGLA
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226333/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="DD BANGLA" group-title="Bengali",DD BANGLA
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226374/index.m3u8
+ttp://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226374/index.m3u8
 
 
 
@@ -872,7 +871,7 @@ http://mhms11.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226524/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="Star Vijay HD" group-title="Tamil",Star Vijay HD
-http://216.144.250.174/Star_Vijay_hD/tracks-v1a1/index.m3u8
+http://216.144.250.174/Star_VIjay_Hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="Kalaigngar" group-title="Tamil",Kalaigngar
 http://cdn.asianetmobiletvplus.online/channels/kalaignartv_czdxzllrwvzueajklabzwgwbwkxzsvky/index.m3u8
