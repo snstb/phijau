@@ -265,12 +265,12 @@ http://103.109.56.21/live/skyfeed1021/index.m3u8
 http://103.109.56.21/live/skyfeed1022/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="Star Sports 1 HD" group-title="Sports",Star Sports 1 HD
-http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
+http://54.39.144.139:8080/StarSports1HD/index.m3u8
 
 Star Sports 1 Hindi
 
 #EXTINF:0 channel-id="" tvg-id="Star Sports 2 HD" group-title="Sports",Star Sports 2 HD
-http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
+http://54.39.144.139:8080/StarSports2HD/index.m3u8
 
 Star Sports First
 
